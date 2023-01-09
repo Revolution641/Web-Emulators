@@ -9,4 +9,4 @@ N64Wasm: https://www.neilb.net/n64wasm/ (NOT RECOMMENDED ON SLOW COMPUTERS)
 
 GBA: https://web.skyemu.app/ supposebly the "Most Accurate GBA Emulator" for your browser.
 
-Nintendo DS: https://web.skyemu.app/
+Nintendo DS:
